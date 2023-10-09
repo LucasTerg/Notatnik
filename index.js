@@ -5,7 +5,7 @@ const apiRoutes = require('./routes/api')
 
 
 // routes for api
-app.use('/api/', apiRoutes)
+// app.use('/', apiRoutes)
 // routes for api
 
 // Server listen for requests
